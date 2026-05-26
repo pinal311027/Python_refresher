@@ -239,5 +239,5 @@ Start with the basics and progress at your own pace. Remember, consistency is ke
 ---
 
 **Last Updated:** May 2026  
-**Maintained by:** Your Name
+**Maintained by:** Pujara pinal
 
